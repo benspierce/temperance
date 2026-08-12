@@ -1,0 +1,1 @@
+import{i as o,H as c,aZ as i,c as d}from"./index-DdzLJo6o.js";function u(e){const r=e.readOnly!==void 0,n=r?[]:o(e,{selector:t=>t.loBlock.isGrader,infer:!0}),a=c(t=>n.some(s=>i(t,e,s).correct===d.submitted));return r?!!e.readOnly:a}export{u};

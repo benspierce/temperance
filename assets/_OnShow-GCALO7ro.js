@@ -1,0 +1,1 @@
+import{u as f,e as i,r as u,l as s}from"./index-DdzLJo6o.js";function o(e){const{mode:r="once"}=e;f(e);const[n,c]=i(e,e.fields.hasRun,!1),t=u.useRef(e);return t.current=e,u.useEffect(()=>{r==="each"&&(t.current.runtime.sideEffectFree||s(t.current))},[]),u.useEffect(()=>{r==="once"&&(n||t.current.runtime.sideEffectFree||(s(t.current),c(!0)))},[n,r]),null}export{o as default};

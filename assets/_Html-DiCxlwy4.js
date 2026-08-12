@@ -1,0 +1,1 @@
+import{r as i,aS as o,j as a}from"./index-DdzLJo6o.js";import{p as u}from"./purify.es-DxCUJf2h.js";function m({kids:t}){const e=i.useMemo(()=>{let r=t;return o(t)&&t.length>0&&(r=t.map(n=>n.type==="text"?n.text:"").join("")),typeof r!="string"||!r.trim()?"":u.sanitize(r)},[t]);return e?a.jsx("div",{dangerouslySetInnerHTML:{__html:e}}):null}export{m as default};

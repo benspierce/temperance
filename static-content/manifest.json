@@ -1,0 +1,11 @@
+{
+  "classes": [
+    "no-translanguaging"
+  ],
+  "content_notice": "",
+  "eventServerUrl": false,
+  "routes": {
+    "/": "temperance/temperance_module_full_sba"
+  },
+  "title": "READ 1000 — Temperance Module (SBA preview)"
+}

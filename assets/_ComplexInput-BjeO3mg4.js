@@ -1,0 +1,1 @@
+import o from"./_LineInput-BXA7nI3o.js";import"./index-DdzLJo6o.js";import"./useInputField-UXedmGVm.js";import"./inputInteraction-DJUmdnD9.js";import"./DisplayAnswer-_5Zr7IGf.js";import"./useGraderAnswer-BWBwoSXl.js";const i=t=>/^[0-9.e+-]*[ij]?$/i.test(t),d=t=>o({...t,updateValidator:i});export{d as default};
