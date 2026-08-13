@@ -1,0 +1,1 @@
+import{x as r,q as i,j as l}from"./index-BciFvkTs.js";function c(t){const{field:a="message",graderId:e}=t,s=r(t,e,a),n=i(t,s,{fallback:"",stateKey:e});return l.jsx("span",{children:String(n??"")})}export{c as default};

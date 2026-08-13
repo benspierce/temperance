@@ -1,1 +1,0 @@
-import{u as n,j as r,r as s}from"./index-DdzLJo6o.js";const a=s.createContext(null);function u(e){const{kids:t}=n(e),o={parentStateKey:e.nodeInfo.stateKey,isCheckbox:e.loBlock.name==="CheckboxInput"};return r.jsx(a.Provider,{value:o,children:t})}export{a as ChoiceGroupContext,u as default};

@@ -1,1 +1,0 @@
-import{q as n,L as s,j as o}from"./index-DdzLJo6o.js";function r(t){const{id:c,fields:e}=t,l=n(t,e.value,{fallback:""}),a=n(t,e.state,{fallback:s.INIT});return a===s.INIT&&!l?null:a===s.RUNNING?o.jsx("span",{className:"text-slot text-slot--loading",children:"..."}):o.jsx("span",{className:"text-slot",children:l})}export{r as default};

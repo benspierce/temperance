@@ -1,0 +1,1 @@
+import{u as t,j as e,B as i}from"./index-BciFvkTs.js";function m(s){const{kids:a}=t(s);return s.gradeMode==="immediate"?e.jsxs("div",{className:"lo-grader lo-grader--immediate",children:[a,e.jsx("span",{className:"lo-grader__status",children:e.jsx(i,{props:s,tag:"Correctness",id:`${s.id}_status`})})]}):e.jsx(e.Fragment,{children:a})}export{m as default};

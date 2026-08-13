@@ -1,1 +1,0 @@
-import{j as e}from"./index-DdzLJo6o.js";import{f as a,u as l}from"./useGraderAnswer-BWBwoSXl.js";function t({props:r}){const{showAnswer:n,displayAnswer:s}=l(r);return!n||s==null?null:e.jsx("span",{className:"lo-show-answer-label",children:s})}function i({props:r}){return a(r)!==null?e.jsx(t,{props:r}):null}export{i as D};
