@@ -6,7 +6,7 @@
       },
       "category": "writing",
       "description": {
-        "en-Latn-US": "Activity bank for the READ 1000 Temperance Module (Module 1). Holds the Main Content screens the study-group conversation pulls into the right-hand panel — the vocabulary self-check, Professor Hale's brief background lecture, the American Yawp textbook excerpt (revealed in three chunks), the note-checking table, the close-reading / grammar highlighting tasks, the reading-comprehension check, the note-organizing task, and the magazine article — plus the vocabulary, Benevolent Empire, and article questions that appear inline in the chat. Launchable so it can be previewed and edited on its own."
+        "en-Latn-US": "Activity bank for the READ 1000 Temperance module. Holds the Main Content screens the study-group conversation pulls into the right-hand panel — the vocabulary self-check, Professor Hale's brief background lecture, the American Yawp textbook excerpt (revealed in three chunks), the note-checking table, the close-reading / grammar tasks, the reading-comprehension check, the lithograph, and the magazine article — plus the vocabulary, Benevolent Empire, and article questions that appear inline in the chat. Launchable so it can be previewed and edited on its own."
       },
       "editPath": "temperance_module_full_activities_part1.olx",
       "editSource": "file:content",
@@ -16,7 +16,7 @@
       "status": "usable",
       "tag": "Vertical",
       "title": {
-        "en-Latn-US": "Temperance Module 1 (Activities)"
+        "en-Latn-US": "Temperance (Activities)"
       }
     },
     "temperance/temperance_module_full_sba": {
@@ -25,7 +25,7 @@
       },
       "category": "writing",
       "description": {
-        "en-Latn-US": "READ 1000 — Module 1 (FULL SBA): the complete version of the Temperance Module, extending the storyboard's authored portion all the way through the parts it left 'in progress'. Across five parts, a study group (peers Danielle, Joe, Karis; reading instructor Professor Booker) works through three texts — an American Yawp textbook excerpt, a magazine article, and N. Currier's 1846 lithograph 'The Drunkard's Progress' — building toward a short COMPARISON ESSAY by rating vocabulary, close-reading and highlighting, checking a peer's notes, answering comprehension questions, organizing notes, and analyzing the image, then finally writing a short essay that compares the historic temperance movement (the 1800s) with today's approaches to drinking less. Two-pane design: a scripted conversation on the left and a tabbed panel (Main Content / Textbook / Your Notes / Your Essay) on the right. Companion to the storyboard-faithful build (sba/temperance_module_sba)."
+        "en-Latn-US": "READ 1000 — Temperance (FULL SBA): the complete Temperance module, extending the storyboard's authored portion through the parts it left 'in progress'. Across five parts, a study group (peers Danielle, Joe, Karis; reading instructor Professor Booker) works through three texts — an American Yawp textbook excerpt, N. Currier's 1846 lithograph 'The Drunkard's Progress', and a magazine article — building toward a short QUICK WRITE by rating vocabulary, close-reading and highlighting, checking a peer's notes, answering comprehension questions, and analyzing the image, then finally writing four or five sentences comparing the historic temperance movement (the 1800s) with today's approaches to drinking less. Two-pane design: a scripted conversation on the left and a tabbed panel (Main Content / Textbook / Quick Write) on the right. Companion to the storyboard-faithful build (sba/temperance_module_sba)."
       },
       "editPath": "temperance_module_full_sba_part1.olx",
       "editSource": "file:content",
@@ -35,7 +35,7 @@
       "status": "usable",
       "tag": "SplitPanel",
       "title": {
-        "en-Latn-US": "Temperance Module — Full SBA (READ 1000)"
+        "en-Latn-US": "Temperance — Full SBA (READ 1000)"
       }
     }
   },
